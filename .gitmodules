@@ -1,0 +1,9 @@
+[submodule "gtklock-playerctl-module"]
+	path = gtklock-playerctl-module
+	url = https://github.com/jovanlanik/gtklock-playerctl-module
+[submodule "gtklock-powerbar-module"]
+	path = gtklock-powerbar-module
+	url = https://github.com/jovanlanik/gtklock-powerbar-module
+[submodule "gtklock-userinfo-module"]
+	path = gtklock-userinfo-module
+	url = https://github.com/jovanlanik/gtklock-userinfo-module
