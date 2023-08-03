@@ -1,0 +1,13 @@
+diff --git a/makefile b/makefile
+index 1b95bb9..fc6ddd2 100644
+--- a/makefile
++++ b/makefile
+@@ -5,7 +5,7 @@
+ 
+ NAME := powerbar-module.so
+ 
+-PREFIX = /usr/local
++PREFIX = /usr
+ INSTALL = install
+ 
+ LIBS := gtk+-3.0 gmodule-export-2.0

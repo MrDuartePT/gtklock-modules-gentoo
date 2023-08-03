@@ -1,0 +1,13 @@
+diff --git a/makefile b/makefile
+index 6deb78e..76362f7 100644
+--- a/makefile
++++ b/makefile
+@@ -5,7 +5,7 @@
+ 
+ NAME := userinfo-module.so
+ 
+-PREFIX = /usr/local
++PREFIX = /usr
+ INSTALL = install
+ 
+ LIBS := gtk+-3.0 gmodule-export-2.0 accountsservice
